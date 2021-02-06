@@ -55,3 +55,13 @@
 .blog-preview a{
   text-decoration: none;
 }
+
+.blog-details h2{
+  font-size: 2em;
+  color: #ff3333;
+  margin-bottom: 1em;
+}
+
+.blog-details div{
+  margin: 20px 0;
+}
