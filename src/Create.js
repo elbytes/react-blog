@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { useHistory } from 'react-router-dom';
 
 const Create = () => {
 
@@ -6,6 +7,7 @@ const Create = () => {
     const [body, setBody] = useState('');
     const [author, setAuthor] = useState('Mario');
     const [isPending, setIsPending] = useState(false);
+    const history = useHistory();
 
     const handleSubmit = (e) =>{
         e.preventDefault();
@@ -17,10 +19,11 @@ const Create = () => {
             headers: {"Content-Type" : "application/json"},
             body: JSON.stringify(blog)
         }).then(()=>{
-            console.log('new blog post added');
             setIsPending(false);
+            history.push('/');
         })
     }
+
     return (
         <div className="create">
             <h2>Create New Blog Post</h2>

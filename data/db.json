@@ -23,6 +23,18 @@
       "body": "sdhsdhbsl",
       "author": "Mario",
       "id": 4
+    },
+    {
+      "title": "Test 2",
+      "body": "Testing....",
+      "author": "Yoshi",
+      "id": 5
+    },
+    {
+      "title": "Test useHistory()",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quo consequatur at deleniti quos delectus dolore aut temporibus exercitationem porro quis, dicta, tempora beatae illo veniam blanditiis debitis sequi nam?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quo consequatur at deleniti quos delectus dolore aut temporibus exercitationem porro quis, dicta, tempora beatae illo veniam blanditiis debitis sequi nam?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quo consequatur at deleniti quos delectus dolore aut temporibus exercitationem porro quis, dicta, tempora beatae illo veniam blanditiis debitis sequi nam?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quo consequatur at deleniti quos delectus dolore aut temporibus exercitationem porro quis, dicta, tempora beatae illo veniam blanditiis debitis sequi nam?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quo consequatur at deleniti quos delectus dolore aut temporibus exercitationem porro quis, dicta, tempora beatae illo veniam blanditiis debitis sequi nam?Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quo consequatur at deleniti quos delectus dolore aut temporibus exercitationem porro quis, dicta, tempora beatae illo veniam blanditiis debitis sequi nam?",
+      "author": "Mario",
+      "id": 6
     }
   ]
 }
