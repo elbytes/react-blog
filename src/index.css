@@ -63,16 +63,22 @@
 }
 
 .blog-details div{
-  margin: 20px 0;
+  margin: 20px 20px;
 }
 
 .blog-details button {
-  background: #f1356d;
+  background: #ff3333;
   color: #fff;
   border: 0;
   padding: 8px;
   border-radius: 8px;
   cursor: pointer;
+}
+
+.blog-details a{
+  text-decoration: none;
+  color: #ff3333;
+  margin-top: 50px;
 }
 
 .create {
